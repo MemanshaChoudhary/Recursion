@@ -1,3 +1,4 @@
+// check whether the array is sorted or not
 public class ArrayisSorted {
     static boolean isSorted(int[] arr, int i) {
         if (arr.length - 1 == i) {
