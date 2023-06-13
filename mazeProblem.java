@@ -1,3 +1,5 @@
+//Given a maze with a starting point and an ending point, we need to find all possible paths from the starting point to the ending point. In this variation, we can only move right or down in the maze.
+
 import java.util.ArrayList;
 
 public class mazeProblem {
