@@ -1,3 +1,4 @@
-# Recursion
-Recursion Practice Problems + DSA 
+# DSA
+-Recursion Practice Problems 
+-Arrays
 
